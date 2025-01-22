@@ -3,5 +3,5 @@
 -- Add any additional keymaps here
 --
 vim.keymap.set("n", "<leader>bt", function()
-  vim.cmd([[Neotree Reveal]])
+  vim.cmd([[Neotree reveal]])
 end, { desc = "Reveal Buffer in Neotree" })
