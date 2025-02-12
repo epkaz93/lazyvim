@@ -7,4 +7,5 @@ if vim.loop.os_uname().sysname == "Linux" then
   vim.opt.shell = "fish"
 end
 
-vim.o.statuscolumn = "%s %l %r "
+-- vim.o.statuscolumn = "%!v:lua.require'snacks.statuscolumn'.get()"
+-- vim.o.statuscolumn = "%s %l %r "

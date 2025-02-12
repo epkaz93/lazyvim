@@ -6,5 +6,12 @@ return {
       enabled = true,
       replace_netrw = true,
     },
+    statuscolumn = {
+      enabled = true,
+    },
+    dashboard = {
+      enabled = true,
+      example = "files",
+    },
   },
 }
