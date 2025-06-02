@@ -2,7 +2,7 @@ return {
   {
     "Isrothy/neominimap.nvim",
     name = "neominimap",
-    enabled = true,
+    enabled = false,
     -- init = function()
     --   vim.g.neominimap = {
     --     layout = "split",
