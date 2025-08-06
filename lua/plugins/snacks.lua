@@ -3,8 +3,8 @@ return {
   lazy = false,
   opts = {
     explorer = {
-      enabled = true,
-      replace_netrw = true,
+      enabled = false,
+      replace_netrw = false,
     },
     statuscolumn = {
       enabled = true,
