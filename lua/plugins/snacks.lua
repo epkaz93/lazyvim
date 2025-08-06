@@ -3,11 +3,11 @@ return {
   lazy = false,
   opts = {
     explorer = {
-      enabled = false,
-      replace_netrw = false,
+      enabled = true,
+      replace_netrw = true,
     },
     statuscolumn = {
-      enabled = false,
+      enabled = true,
     },
     dashboard = {
       enabled = true,
